@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Copiază automat culorile culorilor în clipboard"
+   },
+   "cancel_desc": {
+      "message": "Pur și simplu anulați culoarea activă de culegere de pe pagina web. Nicio culoare nu va fi stocată în istorie."
+   },
+   "cancel_pick": {
+      "message": "Anulați alegerea:"
+   },
+   "change_at": {
+      "message": "Puteți schimba această comandă rapidă la Chrome"
+   },
+   "click_action": {
+      "message": "Faceți clic pe pictogramă pentru a alege culoare de pe pagina web"
+   },
+   "color_picker": {
+      "message": "Selector de culoare"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Activați culorile culese de pe pagina web"
+   },
+   "crosshair": {
+      "message": "crosshair"
+   },
+   "disable_right_click": {
+      "message": "Dezactivați alegerea cu un clic dreapta al mouse-ului"
+   },
+   "do_not_copy": {
+      "message": "Nu copiați # caractere, doar culoare RGB"
+   },
+   "drop_desc": {
+      "message": "deplasați mouse-ul peste pictograma pentru a vedea cum arată"
+   },
+   "dropper_cursor": {
+      "message": "Cursor pentru picurător"
+   },
+   "empty_history": {
+      "message": "Istoricul este gol, încercați să alegeți mai întâi o culoare."
+   },
+   "enable_box": {
+      "message": "Activați caseta cu informații despre culoare în colțul din dreapta jos"
+   },
+   "enable_color": {
+      "message": "Activați instrumentul de culoare de lângă cursorul mouse-ului"
+   },
+   "ext_shortcut": {
+      "message": "Comandă rapidă pentru extensii"
+   },
+   "extension_description": {
+      "message": "Vă permite să alegeți culori de pe orice pagini web, selector de culori pentru a obține cod de pixeli, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Picker Color Hex"
+   },
+   "option_legend1": {
+      "message": "Comportament pentru alegerea paginii web"
+   },
+   "option_legend2": {
+      "message": "Alege pagina web"
+   },
+   "option_legend3": {
+      "message": "Comenzile rapide de la tastatură pentru Pick Color de pe pagina web"
+   },
+   "palette": {
+      "message": "Paletă:"
+   },
+   "palette_default": {
+      "message": "Mod implicit"
+   },
+   "pick_color": {
+      "message": "Alegeți Culoare"
+   },
+   "pickup_color": {
+      "message": "Culoare Pickup:"
+   },
+   "pointer": {
+      "message": "ac indicator"
+   },
+   "save_settings": {
+      "message": "Salvează setările"
+   },
+   "update_color": {
+      "message": "Actualizați Culorile"
+   },
+   "update_desc": {
+      "message": "Color Picker vă arată numai culoarea care a fost prezentă în momentul alegerii culorii active. Dacă are loc vreun eveniment javascript (efect hover, apare meniul) îl puteți reîmprospăta cu ajutorul acestei comenzi rapide de la tastatură."
+   }
+}

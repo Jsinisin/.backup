@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automàticament còpia recollida del color al porta-retalls"
+   },
+   "cancel_desc": {
+      "message": "Simplement cancel·leu el color actiu de la pàgina web. No es guardarà cap color a la història."
+   },
+   "cancel_pick": {
+      "message": "Cancel·la la selecció:"
+   },
+   "change_at": {
+      "message": "Podeu canviar aquesta drecera a Chrome"
+   },
+   "click_action": {
+      "message": "Feu clic a icona per agafar color de la pàgina web"
+   },
+   "color_picker": {
+      "message": "Selector de colors"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Activa el color de la pàgina web"
+   },
+   "crosshair": {
+      "message": "crinera"
+   },
+   "disable_right_click": {
+      "message": "Desactiva la selecció amb el clic dret del ratolí"
+   },
+   "do_not_copy": {
+      "message": "No copieu # caràcters, només en color RGB"
+   },
+   "drop_desc": {
+      "message": "moveu el ratolí damunt de la icona per veure com es veu"
+   },
+   "dropper_cursor": {
+      "message": "Cursor desplegable"
+   },
+   "empty_history": {
+      "message": "L’historial està buit, intenta escollir primer color."
+   },
+   "enable_box": {
+      "message": "Habilita la casella amb informació de color a la cantonada inferior dreta"
+   },
+   "enable_color": {
+      "message": "Activa la informació sobre el color al costat del cursor del ratolí"
+   },
+   "ext_shortcut": {
+      "message": "Drecera d&#39;extensions"
+   },
+   "extension_description": {
+      "message": "Permet escollir colors de qualsevol pàgina web, selector de colors per obtenir codi de píxels, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Selector de colors hex"
+   },
+   "option_legend1": {
+      "message": "Comportament de la selecció de la pàgina web"
+   },
+   "option_legend2": {
+      "message": "Selecció de la pàgina web"
+   },
+   "option_legend3": {
+      "message": "Dreceres de teclat per a escollir color de la pàgina web"
+   },
+   "palette": {
+      "message": "Paleta:"
+   },
+   "palette_default": {
+      "message": "defecte"
+   },
+   "pick_color": {
+      "message": "Tria el color"
+   },
+   "pickup_color": {
+      "message": "Color de recollida:"
+   },
+   "pointer": {
+      "message": "punter"
+   },
+   "save_settings": {
+      "message": "Desa la configuració"
+   },
+   "update_color": {
+      "message": "Actualitzar colors"
+   },
+   "update_desc": {
+      "message": "Color Picker us mostra només el color que estava present en el moment de la recollida de colors actiu. Si es produeix algun esdeveniment Javascript (apareix l&#39;efecte passant el menú), podeu actualitzar-lo amb aquesta drecera del teclat."
+   }
+}

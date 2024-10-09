@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Kopieren Sie die ausgewählte Farbe automatisch in die Zwischenablage"
+   },
+   "cancel_desc": {
+      "message": "Brechen Sie einfach die aktive Auswahlfarbe von der Webseite ab. Im Verlauf wird keine Farbe gespeichert."
+   },
+   "cancel_pick": {
+      "message": "Auswahl abbrechen:"
+   },
+   "change_at": {
+      "message": "Sie können diese Verknüpfung bei Chrome ändern"
+   },
+   "click_action": {
+      "message": "Klicken Sie auf das Symbol, um die Farbe von der Webseite auszuwählen"
+   },
+   "color_picker": {
+      "message": "Farbwähler"
+   },
+   "command": {
+      "message": "Alt + P."
+   },
+   "command_desc": {
+      "message": "Aktivieren Sie die Auswahlfarbe von der Webseite"
+   },
+   "crosshair": {
+      "message": "Fadenkreuz"
+   },
+   "disable_right_click": {
+      "message": "Deaktivieren Sie die Auswahl mit der rechten Maustaste"
+   },
+   "do_not_copy": {
+      "message": "Kopieren Sie nicht das Zeichen #, sondern nur die RGB-Farbe"
+   },
+   "drop_desc": {
+      "message": "Bewegen Sie die Maus über das Symbol, um zu sehen, wie es aussieht"
+   },
+   "dropper_cursor": {
+      "message": "Dropper-Cursor"
+   },
+   "empty_history": {
+      "message": "Der Verlauf ist leer. Versuchen Sie zuerst, eine Farbe auszuwählen."
+   },
+   "enable_box": {
+      "message": "Aktivieren Sie das Feld mit den Farbinformationen in der rechten unteren Ecke"
+   },
+   "enable_color": {
+      "message": "Aktivieren Sie den Farbtooltip neben dem Mauszeiger"
+   },
+   "ext_shortcut": {
+      "message": "Verknüpfung für Erweiterungen"
+   },
+   "extension_description": {
+      "message": "Ermöglicht die Auswahl von Farben auf beliebigen Webseiten, die Farbauswahl zum Abrufen von Pixelcode, RGB, ..."
+   },
+   "extension_name": {
+      "message": "Hex Farbwähler"
+   },
+   "option_legend1": {
+      "message": "Auswahlverhalten der Webseite"
+   },
+   "option_legend2": {
+      "message": "Webseite Pick Look"
+   },
+   "option_legend3": {
+      "message": "Tastaturkürzel für die Auswahl der Farbe von der Webseite"
+   },
+   "palette": {
+      "message": "Palette:"
+   },
+   "palette_default": {
+      "message": "Standard"
+   },
+   "pick_color": {
+      "message": "Farbe wählen"
+   },
+   "pickup_color": {
+      "message": "Tonabnehmerfarbe:"
+   },
+   "pointer": {
+      "message": "Zeiger"
+   },
+   "save_settings": {
+      "message": "Einstellungen speichern"
+   },
+   "update_color": {
+      "message": "Farben aktualisieren"
+   },
+   "update_desc": {
+      "message": "Der Farbwähler zeigt nur die Farbe an, die zum Zeitpunkt der aktiven Farbauswahl vorhanden war. Wenn ein Javascript-Ereignis auftritt (Hover-Effekt, Menü wird angezeigt), können Sie es mit dieser Tastenkombination aktualisieren."
+   }
+}

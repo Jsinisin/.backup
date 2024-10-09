@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Kopeerib värvi automaatselt lõikelauale"
+   },
+   "cancel_desc": {
+      "message": "Lihtsalt tühistage aktiivne värvi valimine veebilehelt. Ühtegi värvi ei salvestata ajalukku."
+   },
+   "cancel_pick": {
+      "message": "Tühista valimine:"
+   },
+   "change_at": {
+      "message": "Saate seda otsetee muuta Chrome&#39;is"
+   },
+   "click_action": {
+      "message": "Veebilehelt värvi valimiseks klõpsake ikooni"
+   },
+   "color_picker": {
+      "message": "Värvivalija"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktiveerige veebilehelt värvi valimine"
+   },
+   "crosshair": {
+      "message": "ristik"
+   },
+   "disable_right_click": {
+      "message": "Keela valimine hiire parema klõpsuga"
+   },
+   "do_not_copy": {
+      "message": "Ärge kopeerige # märki, ainult RGB värvi"
+   },
+   "drop_desc": {
+      "message": "liigutage hiirega ikooni kohal, et näha, kuidas see välja näeb"
+   },
+   "dropper_cursor": {
+      "message": "Tilguti kursor"
+   },
+   "empty_history": {
+      "message": "Ajalugu on tühi. Proovige kõigepealt mõni värv valida."
+   },
+   "enable_box": {
+      "message": "Luba paremas alanurgas värviinfoga kast"
+   },
+   "enable_color": {
+      "message": "Luba hiirekursori kõrval värvitööriist"
+   },
+   "ext_shortcut": {
+      "message": "Laienduste otsetee"
+   },
+   "extension_description": {
+      "message": "Võimaldab valida värve mis tahes veebilehtedelt, värvivalijalt, et saada pikselkoodi, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Hex värvivalija"
+   },
+   "option_legend1": {
+      "message": "Veebilehe valimise käitumine"
+   },
+   "option_legend2": {
+      "message": "Veebilehe valimine"
+   },
+   "option_legend3": {
+      "message": "Veebilehe värvi valimise klaviatuuri otseteed"
+   },
+   "palette": {
+      "message": "Palett:"
+   },
+   "palette_default": {
+      "message": "vaikimisi"
+   },
+   "pick_color": {
+      "message": "Vali värv"
+   },
+   "pickup_color": {
+      "message": "Pikapi värv:"
+   },
+   "pointer": {
+      "message": "osuti"
+   },
+   "save_settings": {
+      "message": "Salvesta sätted"
+   },
+   "update_color": {
+      "message": "Värskenda värve"
+   },
+   "update_desc": {
+      "message": "Värvivalija näitab teile ainult neid värve, mis olid aktiivsed värvi valimise hetkel. Kui mõni javascripti sündmus ilmneb (hõljumiefekt, kuvatakse menüü), saate selle klaviatuuri otsetee abil seda värskendada."
+   }
+}

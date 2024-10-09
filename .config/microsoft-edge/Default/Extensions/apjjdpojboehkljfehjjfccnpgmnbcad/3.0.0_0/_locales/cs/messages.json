@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automaticky zkopíruje vybranou barvu do schránky"
+   },
+   "cancel_desc": {
+      "message": "Jednoduše zrušte aktivní vybírací barvu z webové stránky. V historii nebude uložena žádná barva."
+   },
+   "cancel_pick": {
+      "message": "Zrušit výběr:"
+   },
+   "change_at": {
+      "message": "Tuto zkratku můžete změnit v prohlížeči Chrome"
+   },
+   "click_action": {
+      "message": "Klepnutím na ikonu vyberete barvu z webové stránky"
+   },
+   "color_picker": {
+      "message": "Výběr barvy"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivujte barvu výběru z webové stránky"
+   },
+   "crosshair": {
+      "message": "nitkový kříž"
+   },
+   "disable_right_click": {
+      "message": "Zakázat výběr pravým tlačítkem myši"
+   },
+   "do_not_copy": {
+      "message": "Nekopírujte # znak, pouze barvu RGB"
+   },
+   "drop_desc": {
+      "message": "pohněte myší nad ikonu a uvidíte, jak to vypadá"
+   },
+   "dropper_cursor": {
+      "message": "Kurzor kapátka"
+   },
+   "empty_history": {
+      "message": "Historie je prázdná, zkuste nejprve vybrat nějakou barvu."
+   },
+   "enable_box": {
+      "message": "Povolte pole s informacemi o barvě v pravém dolním rohu"
+   },
+   "enable_color": {
+      "message": "Povolit popisky barev vedle kurzoru myši"
+   },
+   "ext_shortcut": {
+      "message": "Zkratka rozšíření"
+   },
+   "extension_description": {
+      "message": "Umožňuje vybírat barvy z libovolných webových stránek, výběr barvy pro získání obrazového kódu, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Hex Color Picker"
+   },
+   "option_legend1": {
+      "message": "Chování při výběru webové stránky"
+   },
+   "option_legend2": {
+      "message": "Podívejte se na výběr webové stránky"
+   },
+   "option_legend3": {
+      "message": "Klávesové zkratky pro výběr barvy z webové stránky"
+   },
+   "palette": {
+      "message": "Paleta:"
+   },
+   "palette_default": {
+      "message": "Výchozí"
+   },
+   "pick_color": {
+      "message": "Vyberte barvu"
+   },
+   "pickup_color": {
+      "message": "Barva vyzvednutí:"
+   },
+   "pointer": {
+      "message": "ukazatel"
+   },
+   "save_settings": {
+      "message": "Uložit nastavení"
+   },
+   "update_color": {
+      "message": "Aktualizujte barvy"
+   },
+   "update_desc": {
+      "message": "Výběr barvy vám ukáže pouze barvu, která byla přítomna v okamžiku aktivního výběru barvy. Pokud dojde k nějaké události javascript (zobrazí se efekt přechodu, zobrazí se nabídka), můžete ji obnovit pomocí této klávesové zkratky."
+   }
+}

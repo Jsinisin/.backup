@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Copia automaticamente il colore selezionato negli appunti"
+   },
+   "cancel_desc": {
+      "message": "Annullare semplicemente il colore di selezione attivo dalla pagina Web. Nessun colore verrà memorizzato nella cronologia."
+   },
+   "cancel_pick": {
+      "message": "Annulla Scegli:"
+   },
+   "change_at": {
+      "message": "Puoi modificare questo collegamento da Chrome"
+   },
+   "click_action": {
+      "message": "Fare clic sull&#39;icona per selezionare il colore dalla pagina Web"
+   },
+   "color_picker": {
+      "message": "Color Picker"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Attiva il colore di prelievo dalla pagina web"
+   },
+   "crosshair": {
+      "message": "mirino"
+   },
+   "disable_right_click": {
+      "message": "Disabilita pick con il tasto destro del mouse"
+   },
+   "do_not_copy": {
+      "message": "Non copiare # carattere, solo colore RGB"
+   },
+   "drop_desc": {
+      "message": "sposta il mouse sull&#39;icona per vedere come appare"
+   },
+   "dropper_cursor": {
+      "message": "Cursore contagocce"
+   },
+   "empty_history": {
+      "message": "La storia è vuota, prova prima a scegliere un po &#39;di colore."
+   },
+   "enable_box": {
+      "message": "Abilita la casella con le informazioni sul colore nell&#39;angolo in basso a destra"
+   },
+   "enable_color": {
+      "message": "Abilita descrizione comando colore accanto al cursore del mouse"
+   },
+   "ext_shortcut": {
+      "message": "Collegamento estensioni"
+   },
+   "extension_description": {
+      "message": "Ti permette di scegliere i colori da qualsiasi pagina web, selettore di colori per ottenere il codice pixel, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Selettore colore esadecimale"
+   },
+   "option_legend1": {
+      "message": "Comportamento di scelta della pagina Web"
+   },
+   "option_legend2": {
+      "message": "Pagina Web Scegli Look"
+   },
+   "option_legend3": {
+      "message": "Scorciatoie da tastiera per Seleziona colore dalla pagina Web"
+   },
+   "palette": {
+      "message": "Tavolozza:"
+   },
+   "palette_default": {
+      "message": "predefinito"
+   },
+   "pick_color": {
+      "message": "Scegli il colore"
+   },
+   "pickup_color": {
+      "message": "Pickup Color:"
+   },
+   "pointer": {
+      "message": "pointer"
+   },
+   "save_settings": {
+      "message": "Salva le impostazioni"
+   },
+   "update_color": {
+      "message": "Aggiorna colori"
+   },
+   "update_desc": {
+      "message": "Color Picker mostra solo il colore che era presente al momento del color pick attivo. Se si verifica un evento javascript (effetto hover, appare il menu) puoi aggiornarlo con questa scorciatoia da tastiera."
+   }
+}

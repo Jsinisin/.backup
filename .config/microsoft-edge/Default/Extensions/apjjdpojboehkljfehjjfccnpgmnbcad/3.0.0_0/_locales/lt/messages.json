@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automatiškai kopijuoti pasirinktą spalvą į mainų sritį"
+   },
+   "cancel_desc": {
+      "message": "Tiesiog atšaukite aktyvų spalvų rinkimą iš interneto puslapio. Jokios spalvos nebus saugomos istorijoje."
+   },
+   "cancel_pick": {
+      "message": "Atšaukti pasirinkimą:"
+   },
+   "change_at": {
+      "message": "Šią nuorodą galite pakeisti apsilankę „Chrome“"
+   },
+   "click_action": {
+      "message": "Spustelėkite piktogramą, kad pasirinktumėte spalvą iš tinklalapio"
+   },
+   "color_picker": {
+      "message": "Spalvų parinkiklis"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Suaktyvinkite pasirinkimo spalvą iš tinklalapio"
+   },
+   "crosshair": {
+      "message": "kryželiu"
+   },
+   "disable_right_click": {
+      "message": "Išjunkite pasirinkimą dešiniuoju pelės mygtuko paspaudimu"
+   },
+   "do_not_copy": {
+      "message": "Nekopijuokite # simbolio, tik RGB spalvos"
+   },
+   "drop_desc": {
+      "message": "perkelkite pelę virš piktogramos, kad pamatytumėte, kaip ji atrodo"
+   },
+   "dropper_cursor": {
+      "message": "Dropper žymeklis"
+   },
+   "empty_history": {
+      "message": "Istorija tuščia, pirmiausia pabandykite pasirinkti spalvą."
+   },
+   "enable_box": {
+      "message": "Dešiniajame apatiniame kampe įgalinti langelį su spalvų informacija"
+   },
+   "enable_color": {
+      "message": "Įgalinti spalvų patarimą šalia pelės žymeklio"
+   },
+   "ext_shortcut": {
+      "message": "Plėtinių spartusis klavišas"
+   },
+   "extension_description": {
+      "message": "Leidžia pasirinkti spalvas iš bet kurių tinklalapių, spalvų rinkiklį, kad gautumėte taškų kodą, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Šešiabriaunis spalvų rinkiklis"
+   },
+   "option_legend1": {
+      "message": "Tinklalapio pasirinkimas"
+   },
+   "option_legend2": {
+      "message": "Tinklalapio pasirinkimas"
+   },
+   "option_legend3": {
+      "message": "Spartieji klavišai, skirti pasirinkti spalvą iš tinklalapio"
+   },
+   "palette": {
+      "message": "Paletė:"
+   },
+   "palette_default": {
+      "message": "numatytas"
+   },
+   "pick_color": {
+      "message": "Pasirinkite spalvą"
+   },
+   "pickup_color": {
+      "message": "Pikapo spalva:"
+   },
+   "pointer": {
+      "message": "rodyklė"
+   },
+   "save_settings": {
+      "message": "Išsaugoti nustatymus"
+   },
+   "update_color": {
+      "message": "Atnaujinkite spalvas"
+   },
+   "update_desc": {
+      "message": "Spalvų parinkiklis rodo tik tas spalvas, kurios buvo aktyvios spalvų parinkimo metu. Jei įvyksta koks nors „javascript“ įvykis (rodomas pelės žymeklis, pasirodo meniu), galite atnaujinti jį naudodamiesi šiuo sparčiuoju klavišu."
+   }
+}

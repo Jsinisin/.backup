@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "اختار نسخ Automaticaly اللون إلى الحافظة"
+   },
+   "cancel_desc": {
+      "message": "ما عليك سوى إلغاء لون الانتقاء النشط من صفحة الويب. لن يتم تخزين أي لون في التاريخ."
+   },
+   "cancel_pick": {
+      "message": "إلغاء الاختيار:"
+   },
+   "change_at": {
+      "message": "يمكنك تغيير هذا الاختصار في Chrome"
+   },
+   "click_action": {
+      "message": "انقر فوق الرمز لاختيار اللون من صفحة الويب"
+   },
+   "color_picker": {
+      "message": "أداة انتقاء اللون"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "تنشيط اختيار اللون من صفحة الويب"
+   },
+   "crosshair": {
+      "message": "التقاطع"
+   },
+   "disable_right_click": {
+      "message": "تعطيل الاختيار بنقرة زر الماوس الأيمن"
+   },
+   "do_not_copy": {
+      "message": "لا تنسخ # حرف ، بل لون RGB فقط"
+   },
+   "drop_desc": {
+      "message": "حرك الماوس فوق الرمز لترى كيف يبدو"
+   },
+   "dropper_cursor": {
+      "message": "مؤشر القطارة"
+   },
+   "empty_history": {
+      "message": "السجل فارغ ، حاول اختيار بعض الألوان أولاً."
+   },
+   "enable_box": {
+      "message": "مربع تمكين بمعلومات اللون في الزاوية السفلية اليمنى"
+   },
+   "enable_color": {
+      "message": "تمكين تلميح الألوان بجوار مؤشر الماوس"
+   },
+   "ext_shortcut": {
+      "message": "ملحقات الاختصار"
+   },
+   "extension_description": {
+      "message": "يسمح لك باختيار الألوان من أي صفحات ويب ، منتقي الألوان للحصول على رمز بكسل ، RGB ، ..."
+   },
+   "extension_name": {
+      "message": "منتقي الألوان الهيكس"
+   },
+   "option_legend1": {
+      "message": "سلوك اختيار صفحة الويب"
+   },
+   "option_legend2": {
+      "message": "اختر نظرة على صفحة الويب"
+   },
+   "option_legend3": {
+      "message": "اختصارات لوحة المفاتيح لاختيار اللون من صفحة الويب"
+   },
+   "palette": {
+      "message": "لوحة:"
+   },
+   "palette_default": {
+      "message": "الافتراضي"
+   },
+   "pick_color": {
+      "message": "اختر اللون"
+   },
+   "pickup_color": {
+      "message": "لون الالتقاط:"
+   },
+   "pointer": {
+      "message": "مؤشر"
+   },
+   "save_settings": {
+      "message": "احفظ التغييرات"
+   },
+   "update_color": {
+      "message": "تحديث الألوان"
+   },
+   "update_desc": {
+      "message": "يظهر لك Color Picker اللون الوحيد الذي كان موجودًا في لحظة اختيار اللون النشط. إذا حدث أي حدث جافا سكريبت (تأثير التمرير ، تظهر القائمة) ، يمكنك تحديثه باستخدام اختصار لوحة المفاتيح هذا."
+   }
+}

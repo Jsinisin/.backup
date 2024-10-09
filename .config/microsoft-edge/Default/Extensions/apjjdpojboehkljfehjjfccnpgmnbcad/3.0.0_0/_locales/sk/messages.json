@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automaticky skopíruje vybratú farbu do schránky"
+   },
+   "cancel_desc": {
+      "message": "Jednoducho zrušte farbu aktívneho vyberania z webovej stránky. V histórii sa nebude ukladať žiadna farba."
+   },
+   "cancel_pick": {
+      "message": "Zrušiť výber:"
+   },
+   "change_at": {
+      "message": "Túto skratku môžete zmeniť v prehliadači Chrome"
+   },
+   "click_action": {
+      "message": "Kliknutím na ikonu vyberiete farbu z webovej stránky"
+   },
+   "color_picker": {
+      "message": "Výber farby"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivujte farbu výberu z webovej stránky"
+   },
+   "crosshair": {
+      "message": "crosshair"
+   },
+   "disable_right_click": {
+      "message": "Zakážte výber kliknutím pravým tlačidlom myši"
+   },
+   "do_not_copy": {
+      "message": "Nekopírujte znak #, iba farbu RGB"
+   },
+   "drop_desc": {
+      "message": "pohnite myšou nad ikonu, aby ste videli, ako to vyzerá"
+   },
+   "dropper_cursor": {
+      "message": "Kurzor kvapkadla"
+   },
+   "empty_history": {
+      "message": "História je prázdna, skúste si najprv vybrať nejakú farbu."
+   },
+   "enable_box": {
+      "message": "Povoľte pole s informáciami o farbe v pravom dolnom rohu"
+   },
+   "enable_color": {
+      "message": "Povoľte farebný popis vedľa kurzora myši"
+   },
+   "ext_shortcut": {
+      "message": "Skratka rozšírení"
+   },
+   "extension_description": {
+      "message": "Umožňuje vám vybrať farby z ľubovoľných webových stránok, výber farieb pre získanie pixelového kódu, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Šesťhranný výber farby"
+   },
+   "option_legend1": {
+      "message": "Správanie výberu webovej stránky"
+   },
+   "option_legend2": {
+      "message": "Pozrite sa na výber webovej stránky"
+   },
+   "option_legend3": {
+      "message": "Klávesové skratky pre výber farby z webovej stránky"
+   },
+   "palette": {
+      "message": "paleta:"
+   },
+   "palette_default": {
+      "message": "štandardné"
+   },
+   "pick_color": {
+      "message": "Vyberte farbu"
+   },
+   "pickup_color": {
+      "message": "Farba snímača:"
+   },
+   "pointer": {
+      "message": "ukazovateľ"
+   },
+   "save_settings": {
+      "message": "Uložiť nastavenia"
+   },
+   "update_color": {
+      "message": "Aktualizujte farby"
+   },
+   "update_desc": {
+      "message": "Color Picker zobrazuje iba farbu, ktorá bola prítomná v okamihu aktívneho výberu farby. Ak sa vyskytne akákoľvek udalosť javascript (zobrazí sa efekt hover, zobrazí sa ponuka), môžete ju pomocou tejto klávesovej skratky obnoviť."
+   }
+}

@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Seçilen rengi otomatik olarak panoya kopyala"
+   },
+   "cancel_desc": {
+      "message": "Etkin toplama rengini web sayfasından iptal etmeniz yeterlidir. Geçmişte hiçbir renk depolanmaz."
+   },
+   "cancel_pick": {
+      "message": "Seçimi İptal Et:"
+   },
+   "change_at": {
+      "message": "Bu kısayolu Chrome&#39;un"
+   },
+   "click_action": {
+      "message": "Web sayfasından renk seçmek için simgeyi tıklayın"
+   },
+   "color_picker": {
+      "message": "Renk seçici"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Web sayfasından seçim rengini etkinleştirme"
+   },
+   "crosshair": {
+      "message": "Artı"
+   },
+   "disable_right_click": {
+      "message": "Sağ fare tıklaması ile seçmeyi devre dışı bırak"
+   },
+   "do_not_copy": {
+      "message": "# Karakteri kopyalamayın, sadece RGB rengi"
+   },
+   "drop_desc": {
+      "message": "nasıl göründüğünü görmek için fareyi simgenin üzerine getirin"
+   },
+   "dropper_cursor": {
+      "message": "Damlalık imleci"
+   },
+   "empty_history": {
+      "message": "Geçmiş boş, önce biraz renk seçmeye çalışın."
+   },
+   "enable_box": {
+      "message": "Sağ alt köşede renk bilgili kutuyu etkinleştir"
+   },
+   "enable_color": {
+      "message": "Fare imlecinin yanındaki renk ipucunu etkinleştir"
+   },
+   "ext_shortcut": {
+      "message": "Uzantı Kısayolu"
+   },
+   "extension_description": {
+      "message": "Herhangi bir web sayfasından renk, piksel kodu, rgb, almak için renk seçici ..."
+   },
+   "extension_name": {
+      "message": "Hex Renk Seçici"
+   },
+   "option_legend1": {
+      "message": "Web Sayfası Seçim Davranışı"
+   },
+   "option_legend2": {
+      "message": "Web Sayfası Seçim Görünümü"
+   },
+   "option_legend3": {
+      "message": "Web Sayfasından Renk Seç için Klavye Kısayolları"
+   },
+   "palette": {
+      "message": "Paleti:"
+   },
+   "palette_default": {
+      "message": "varsayılan"
+   },
+   "pick_color": {
+      "message": "Renk seç"
+   },
+   "pickup_color": {
+      "message": "Alış Rengi:"
+   },
+   "pointer": {
+      "message": "Işaretçi"
+   },
+   "save_settings": {
+      "message": "Ayarları kaydet"
+   },
+   "update_color": {
+      "message": "Renkleri Güncelle"
+   },
+   "update_desc": {
+      "message": "Renk Seçici, yalnızca renk seçiminin etkin olduğu anda mevcut olan rengi gösterir. Herhangi bir javascript olayı meydana gelirse (fareyle üzerine gelme efekti, menü görüntülenir) bu klavye kısayoluyla olayı yenileyebilirsiniz."
+   }
+}

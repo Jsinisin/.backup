@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_icon": "icon-512.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "js/background.js",
+      "type": "module"
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "homepage_url": "https://tab-reload.freeonlineapps.net",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "192": "icon-192.png",
+      "256": "icon-256.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "512": "icon-512.png",
+      "64": "icon-64.png",
+      "72": "icon-72.png",
+      "96": "icon-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiDNQn5UD6Ct3+ZOQCbrDDckYAnBGudCBz2U5lZSL5OHkGax6GzENGTSBp7AXGTLiY65MkvL9hQCgqd4rDy6+Cwimb8s+43vEjMgjOXmuWe2nRGWJ3u7s+OU5dGFnKooesHV/ISXU1a17+vMOZlJXjOmZqPAMA5oCTXontYES5Yw88ACPPeNAR1BuXiNYk6FdlSor0MMa6FhSvtvzHr9+n4LEs8TzIuDw/tKMh+8rgNkqzxr9Q9X4Zd5sA8cHc2qp0FvCTadQ7W1gx0v4jsJfOVf0Bb0ujk50N0n+V7K5wjGoCklTvefe6OORIfWw0d7gnc5UEss07hGXZLZL39T70wIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_application_title__",
+   "offline_enabled": true,
+   "permissions": [ "activeTab", "scripting", "storage" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.0.1"
+}

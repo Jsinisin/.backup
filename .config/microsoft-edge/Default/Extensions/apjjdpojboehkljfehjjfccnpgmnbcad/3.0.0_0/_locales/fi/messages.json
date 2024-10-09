@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Kopioi väri automaattisesti leikepöydälle"
+   },
+   "cancel_desc": {
+      "message": "Peruuta vain aktiivisen poiminnan väri verkkosivulta. Mitään väriä ei tallenneta historiaan."
+   },
+   "cancel_pick": {
+      "message": "Peruuta valinta:"
+   },
+   "change_at": {
+      "message": "Voit muuttaa tätä pikakuvaketta Chromen sivuilla"
+   },
+   "click_action": {
+      "message": "Valitse väri verkkosivulta napsauttamalla kuvaketta"
+   },
+   "color_picker": {
+      "message": "Värinvalitsija"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivoi valintaväri verkkosivulta"
+   },
+   "crosshair": {
+      "message": "tähtäin"
+   },
+   "disable_right_click": {
+      "message": "Poista valinta valitsemalla hiiren oikealla napsautuksella"
+   },
+   "do_not_copy": {
+      "message": "Älä kopioi # -merkkiä, vain RGB-väriä"
+   },
+   "drop_desc": {
+      "message": "Siirrä hiiri kuvakkeen päälle nähdäksesi miltä se näyttää"
+   },
+   "dropper_cursor": {
+      "message": "Pudotuskohdistin"
+   },
+   "empty_history": {
+      "message": "Historia on tyhjä, yritä ensin valita väri."
+   },
+   "enable_box": {
+      "message": "Ota väritiedot sisältävä ruutu käyttöön oikeassa alakulmassa"
+   },
+   "enable_color": {
+      "message": "Ota väri-työkaluvinkki hiiren kohdistimen viereen"
+   },
+   "ext_shortcut": {
+      "message": "Laajennukset Oikotie"
+   },
+   "extension_description": {
+      "message": "Voit valita värejä miltä tahansa verkkosivulta, värinvalitsimella pikselikoodin, rgb: n, ..."
+   },
+   "extension_name": {
+      "message": "Kuusivärivalitsin"
+   },
+   "option_legend1": {
+      "message": "Verkkosivun valinta"
+   },
+   "option_legend2": {
+      "message": "Verkkosivun valinta"
+   },
+   "option_legend3": {
+      "message": "Pikanäppäimet valitsemille väreille verkkosivulta"
+   },
+   "palette": {
+      "message": "Paletti:"
+   },
+   "palette_default": {
+      "message": "oletusarvo"
+   },
+   "pick_color": {
+      "message": "Valitse väri"
+   },
+   "pickup_color": {
+      "message": "Noutoväri:"
+   },
+   "pointer": {
+      "message": "osoitin"
+   },
+   "save_settings": {
+      "message": "Tallenna asetukset"
+   },
+   "update_color": {
+      "message": "Päivitä värit"
+   },
+   "update_desc": {
+      "message": "Colour Picker näyttää vain värit, jotka olivat läsnä värin valintahetkellä. Jos jotain javascript-tapahtumaa tapahtuu (hover-efekti, valikko tulee näkyviin), voit päivittää sen tällä pikanäppäimellä."
+   }
+}

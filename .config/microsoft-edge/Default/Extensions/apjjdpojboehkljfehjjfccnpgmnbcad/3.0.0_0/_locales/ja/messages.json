@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "選択した色を自動的にクリップボードにコピー"
+   },
+   "cancel_desc": {
+      "message": "Webページからアクティブなピッキング色をキャンセルするだけです。色は履歴に保存されません。"
+   },
+   "cancel_pick": {
+      "message": "ピックをキャンセル："
+   },
+   "change_at": {
+      "message": "このショートカットはChromeで変更できます"
+   },
+   "click_action": {
+      "message": "アイコンをクリックしてWebページから色を選択します"
+   },
+   "color_picker": {
+      "message": "カラーピッカー"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Webページから色を選択する"
+   },
+   "crosshair": {
+      "message": "十字線"
+   },
+   "disable_right_click": {
+      "message": "右クリックでピックを無効にする"
+   },
+   "do_not_copy": {
+      "message": "＃文字はコピーせず、RGBカラーのみをコピー"
+   },
+   "drop_desc": {
+      "message": "アイコンの上にマウスを移動して、アイコンを確認します"
+   },
+   "dropper_cursor": {
+      "message": "ドロッパーカーソル"
+   },
+   "empty_history": {
+      "message": "履歴が空です。最初に色を選択してください。"
+   },
+   "enable_box": {
+      "message": "右下隅に色情報があるボックスを有効にする"
+   },
+   "enable_color": {
+      "message": "マウスカーソルの横にあるカラーツールチップを有効にする"
+   },
+   "ext_shortcut": {
+      "message": "拡張機能のショートカット"
+   },
+   "extension_description": {
+      "message": "任意のWebページから色を選択でき、ピクセルコードを取得するカラーピッカー、RGBなど..."
+   },
+   "extension_name": {
+      "message": "16進カラーピッカー"
+   },
+   "option_legend1": {
+      "message": "Webページの選択動作"
+   },
+   "option_legend2": {
+      "message": "ウェブページピックルック"
+   },
+   "option_legend3": {
+      "message": "Webページから色を選択するためのキーボードショートカット"
+   },
+   "palette": {
+      "message": "パレット："
+   },
+   "palette_default": {
+      "message": "デフォルト"
+   },
+   "pick_color": {
+      "message": "色を選ぶ"
+   },
+   "pickup_color": {
+      "message": "ピックアップカラー："
+   },
+   "pointer": {
+      "message": "ポインタ"
+   },
+   "save_settings": {
+      "message": "設定を保存する"
+   },
+   "update_color": {
+      "message": "色を更新"
+   },
+   "update_desc": {
+      "message": "カラーピッカーには、カラーピックがアクティブなときに存在していた色のみが表示されます。 JavaScriptイベントが発生した場合（ホバー効果、メニューが表示されます）、このキーボードショートカットで更新できます。"
+   }
+}

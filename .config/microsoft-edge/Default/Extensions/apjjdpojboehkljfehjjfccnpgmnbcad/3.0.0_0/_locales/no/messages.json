@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Kopier automatisk valgt farge til utklippstavlen"
+   },
+   "cancel_desc": {
+      "message": "Bare avbryt aktiv plukke farge fra websiden. Ingen farger vil bli lagret i historikken."
+   },
+   "cancel_pick": {
+      "message": "Avbryt valg:"
+   },
+   "change_at": {
+      "message": "Du kan endre denne snarveien på Chrome"
+   },
+   "click_action": {
+      "message": "Klikk på ikonet for å velge farge fra websiden"
+   },
+   "color_picker": {
+      "message": "Fargevelger"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktiver plukkfarge fra webside"
+   },
+   "crosshair": {
+      "message": "trådkors"
+   },
+   "disable_right_click": {
+      "message": "Deaktiver valg med høyre museklikk"
+   },
+   "do_not_copy": {
+      "message": "Ikke kopier # tegn, bare RGB-farge"
+   },
+   "drop_desc": {
+      "message": "flytt musen over ikonet for å se hvordan det ser ut"
+   },
+   "dropper_cursor": {
+      "message": "Dropper markør"
+   },
+   "empty_history": {
+      "message": "Historikken er tom. Prøv først å velge litt farge."
+   },
+   "enable_box": {
+      "message": "Aktiver boks med fargeinformasjon i høyre nedre hjørne"
+   },
+   "enable_color": {
+      "message": "Aktiver fargeverktøytip ved siden av musepekeren"
+   },
+   "ext_shortcut": {
+      "message": "Snarveier for utvidelser"
+   },
+   "extension_description": {
+      "message": "Lar deg velge farger fra alle websider, fargevelger for å få pikselkode, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Hex Color Picker"
+   },
+   "option_legend1": {
+      "message": "Nettsidens valgoppførsel"
+   },
+   "option_legend2": {
+      "message": "Nettstedets valg av utseende"
+   },
+   "option_legend3": {
+      "message": "Tastatursnarveier for plukkfarge fra webside"
+   },
+   "palette": {
+      "message": "Palette:"
+   },
+   "palette_default": {
+      "message": "misligholde"
+   },
+   "pick_color": {
+      "message": "Velg farge"
+   },
+   "pickup_color": {
+      "message": "Hent farge:"
+   },
+   "pointer": {
+      "message": "pekeren"
+   },
+   "save_settings": {
+      "message": "Lagre innstillinger"
+   },
+   "update_color": {
+      "message": "Oppdater farger"
+   },
+   "update_desc": {
+      "message": "Color Picker viser bare farger som var til stede i det øyeblikket fargeplukk var aktiv. Hvis det oppstår noen JavaScript-hendelse (sveveeffekt, menyen vises), kan du oppdatere dens med denne hurtigtasten."
+   }
+}

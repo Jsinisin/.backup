@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Salinan automatik dipilih warna ke papan keratan"
+   },
+   "cancel_desc": {
+      "message": "Cukup batalkan pemilihan warna aktif dari laman web. Tidak ada warna yang akan disimpan dalam sejarah."
+   },
+   "cancel_pick": {
+      "message": "Batal Pilih:"
+   },
+   "change_at": {
+      "message": "Anda boleh menukar jalan pintas ini di Chrome"
+   },
+   "click_action": {
+      "message": "Klik ikon untuk memilih warna dari laman web"
+   },
+   "color_picker": {
+      "message": "Pemilih Warna"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktifkan warna pilih dari laman web"
+   },
+   "crosshair": {
+      "message": "rambut salib"
+   },
+   "disable_right_click": {
+      "message": "Lumpuhkan pilih dengan klik kanan tetikus"
+   },
+   "do_not_copy": {
+      "message": "Jangan menyalin # watak, hanya warna RGB"
+   },
+   "drop_desc": {
+      "message": "gerakkan tetikus ke atas ikon untuk melihat bagaimana rupanya"
+   },
+   "dropper_cursor": {
+      "message": "Kursor dropper"
+   },
+   "empty_history": {
+      "message": "Sejarah kosong, cuba pilih warna terlebih dahulu."
+   },
+   "enable_box": {
+      "message": "Dayakan kotak dengan maklumat warna di sudut bawah kanan"
+   },
+   "enable_color": {
+      "message": "Dayakan petua warna di sebelah kursor tetikus"
+   },
+   "ext_shortcut": {
+      "message": "Pintasan Sambungan"
+   },
+   "extension_description": {
+      "message": "Membolehkan anda memilih warna dari mana-mana laman web, pemilih warna untuk mendapatkan kod piksel, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Pemilih Warna Hex"
+   },
+   "option_legend1": {
+      "message": "Kelakuan Pilih Laman Web"
+   },
+   "option_legend2": {
+      "message": "Paparan Pilihan Laman Web"
+   },
+   "option_legend3": {
+      "message": "Pintasan Papan Kekunci untuk Pilih Warna dari Halaman Web"
+   },
+   "palette": {
+      "message": "Palet:"
+   },
+   "palette_default": {
+      "message": "lalai"
+   },
+   "pick_color": {
+      "message": "Pilih Warna"
+   },
+   "pickup_color": {
+      "message": "Warna Pengambilan:"
+   },
+   "pointer": {
+      "message": "penunjuk"
+   },
+   "save_settings": {
+      "message": "Simpan tetapan"
+   },
+   "update_color": {
+      "message": "Kemas kini Warna"
+   },
+   "update_desc": {
+      "message": "Color Picker hanya menunjukkan warna yang terdapat pada saat memilih warna aktif. Sekiranya ada peristiwa javascript (kesan hover, menu muncul) anda boleh menyegarkannya dengan pintasan papan kekunci ini."
+   }
+}

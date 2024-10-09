@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Bản sao tự động chọn màu vào clipboard"
+   },
+   "cancel_desc": {
+      "message": "Đơn giản chỉ cần hủy màu chọn hoạt động từ trang web. Không có màu sẽ được lưu trữ trong lịch sử."
+   },
+   "cancel_pick": {
+      "message": "Hủy chọn:"
+   },
+   "change_at": {
+      "message": "Bạn có thể thay đổi phím tắt này tại Chrome&#39;s"
+   },
+   "click_action": {
+      "message": "Nhấn vào biểu tượng để chọn màu từ trang web"
+   },
+   "color_picker": {
+      "message": "Bộ chọn màu"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Kích hoạt chọn màu từ trang web"
+   },
+   "crosshair": {
+      "message": "crosshair"
+   },
+   "disable_right_click": {
+      "message": "Vô hiệu hóa chọn với nhấp chuột phải"
+   },
+   "do_not_copy": {
+      "message": "Không sao chép # ký tự, chỉ màu RGB"
+   },
+   "drop_desc": {
+      "message": "di chuyển chuột qua biểu tượng để xem nó trông như thế nào"
+   },
+   "dropper_cursor": {
+      "message": "Con trỏ nhỏ giọt"
+   },
+   "empty_history": {
+      "message": "Lịch sử là trống rỗng, cố gắng chọn một số màu sắc đầu tiên."
+   },
+   "enable_box": {
+      "message": "Cho phép hộp có thông tin màu ở góc dưới bên phải"
+   },
+   "enable_color": {
+      "message": "Bật công cụ màu bên cạnh con trỏ chuột"
+   },
+   "ext_shortcut": {
+      "message": "Tiện ích mở rộng"
+   },
+   "extension_description": {
+      "message": "Cho phép bạn chọn màu từ bất kỳ trang web, bộ chọn màu nào để lấy mã pixel, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Bộ chọn màu Hex"
+   },
+   "option_legend1": {
+      "message": "Trang web chọn hành vi"
+   },
+   "option_legend2": {
+      "message": "Trang web Chọn Nhìn"
+   },
+   "option_legend3": {
+      "message": "Phím tắt cho chọn màu từ trang web"
+   },
+   "palette": {
+      "message": "Bảng màu:"
+   },
+   "palette_default": {
+      "message": "mặc định"
+   },
+   "pick_color": {
+      "message": "Chọn màu sắc"
+   },
+   "pickup_color": {
+      "message": "Màu bán tải:"
+   },
+   "pointer": {
+      "message": "con trỏ"
+   },
+   "save_settings": {
+      "message": "Lưu các thiết lập"
+   },
+   "update_color": {
+      "message": "Cập nhật màu sắc"
+   },
+   "update_desc": {
+      "message": "Bộ chọn màu chỉ hiển thị cho bạn màu hiện diện tại thời điểm chọn màu hoạt động. Nếu bất kỳ sự kiện javascript nào xảy ra (hiệu ứng di chuột, menu xuất hiện), bạn có thể làm mới nó bằng phím tắt này."
+   }
+}

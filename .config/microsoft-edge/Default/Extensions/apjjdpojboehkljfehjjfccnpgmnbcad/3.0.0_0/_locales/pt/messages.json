@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Copiar automaticamente a cor escolhida para a área de transferência"
+   },
+   "cancel_desc": {
+      "message": "Simplesmente cancele a cor da seleção ativa na página da web. Nenhuma cor será armazenada no histórico."
+   },
+   "cancel_pick": {
+      "message": "Cancelar seleção:"
+   },
+   "change_at": {
+      "message": "Você pode alterar esse atalho no Chrome"
+   },
+   "click_action": {
+      "message": "Clique no ícone para escolher a cor da página da web"
+   },
+   "color_picker": {
+      "message": "Seletor de cores"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Ativar a seleção de cores na página da web"
+   },
+   "crosshair": {
+      "message": "mira"
+   },
+   "disable_right_click": {
+      "message": "Desativar seleção com o botão direito do mouse"
+   },
+   "do_not_copy": {
+      "message": "Não copie o caractere #, apenas a cor RGB"
+   },
+   "drop_desc": {
+      "message": "passe o mouse sobre o ícone para ver como ele se parece"
+   },
+   "dropper_cursor": {
+      "message": "Cursor conta-gotas"
+   },
+   "empty_history": {
+      "message": "O histórico está vazio, tente primeiro escolher um pouco de cor."
+   },
+   "enable_box": {
+      "message": "Ativar caixa com informações de cores no canto inferior direito"
+   },
+   "enable_color": {
+      "message": "Ativar dica de ferramenta de cores ao lado do cursor do mouse"
+   },
+   "ext_shortcut": {
+      "message": "Atalho de extensões"
+   },
+   "extension_description": {
+      "message": "Permite escolher cores em qualquer página da Web, seletor de cores para obter código de pixel, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Seletor de cores hex"
+   },
+   "option_legend1": {
+      "message": "Comportamento de seleção de página da Web"
+   },
+   "option_legend2": {
+      "message": "Escolha de página da Web"
+   },
+   "option_legend3": {
+      "message": "Atalhos de teclado para Escolher cor na página da Web"
+   },
+   "palette": {
+      "message": "Paleta:"
+   },
+   "palette_default": {
+      "message": "padrão"
+   },
+   "pick_color": {
+      "message": "Escolher Cor"
+   },
+   "pickup_color": {
+      "message": "Cor do captador:"
+   },
+   "pointer": {
+      "message": "ponteiro"
+   },
+   "save_settings": {
+      "message": "Salvar configurações"
+   },
+   "update_color": {
+      "message": "Atualizar cores"
+   },
+   "update_desc": {
+      "message": "O Seletor de cores mostra apenas as cores presentes no momento em que a seleção de cores está ativa. Se algum evento javascript ocorrer (efeito de foco, menu aparece), você poderá atualizá-lo com este atalho de teclado."
+   }
+}

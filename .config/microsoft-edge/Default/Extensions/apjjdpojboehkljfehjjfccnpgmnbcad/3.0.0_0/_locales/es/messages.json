@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Copie automáticamente el color seleccionado al portapapeles"
+   },
+   "cancel_desc": {
+      "message": "Simplemente cancele el color de selección activo de la página web. No se almacenará ningún color en el historial."
+   },
+   "cancel_pick": {
+      "message": "Cancelar selección:"
+   },
+   "change_at": {
+      "message": "Puedes cambiar este acceso directo en Chrome&#39;s"
+   },
+   "click_action": {
+      "message": "Haga clic en el icono para elegir el color de la página web."
+   },
+   "color_picker": {
+      "message": "Selector de color"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Activar elegir color de la página web"
+   },
+   "crosshair": {
+      "message": "punto de mira"
+   },
+   "disable_right_click": {
+      "message": "Deshabilitar selección con el botón derecho del mouse"
+   },
+   "do_not_copy": {
+      "message": "No copie el carácter #, solo el color RGB"
+   },
+   "drop_desc": {
+      "message": "mueva el mouse sobre el ícono para ver cómo se ve"
+   },
+   "dropper_cursor": {
+      "message": "Cursor cuentagotas"
+   },
+   "empty_history": {
+      "message": "La historia está vacía, intenta elegir un color primero."
+   },
+   "enable_box": {
+      "message": "Habilite el cuadro con información de color en la esquina inferior derecha"
+   },
+   "enable_color": {
+      "message": "Habilite la información sobre herramientas de color junto al cursor del mouse"
+   },
+   "ext_shortcut": {
+      "message": "Atajo de extensiones"
+   },
+   "extension_description": {
+      "message": "Le permite elegir colores de cualquier página web, selector de colores para obtener códigos de píxeles, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Selector de color hexagonal"
+   },
+   "option_legend1": {
+      "message": "Comportamiento de selección de página web"
+   },
+   "option_legend2": {
+      "message": "Mirada de selección de página web"
+   },
+   "option_legend3": {
+      "message": "Métodos abreviados de teclado para elegir el color de la página web"
+   },
+   "palette": {
+      "message": "Paleta:"
+   },
+   "palette_default": {
+      "message": "defecto"
+   },
+   "pick_color": {
+      "message": "Elegir color"
+   },
+   "pickup_color": {
+      "message": "Color de recogida:"
+   },
+   "pointer": {
+      "message": "puntero"
+   },
+   "save_settings": {
+      "message": "Guardar ajustes"
+   },
+   "update_color": {
+      "message": "Actualizar colores"
+   },
+   "update_desc": {
+      "message": "Selector de color muestra solo el color que estaba presente en el momento de la selección de color activa. Si se produce algún evento de JavaScript (efecto de desplazamiento, aparece el menú), puede actualizarlo con este método abreviado de teclado."
+   }
+}

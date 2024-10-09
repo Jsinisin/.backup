@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Kopieer automatisch de geselecteerde kleur naar het klembord"
+   },
+   "cancel_desc": {
+      "message": "Annuleer gewoon de actieve kleur van de webpagina. Er wordt geen kleur opgeslagen in de geschiedenis."
+   },
+   "cancel_pick": {
+      "message": "Keuze annuleren:"
+   },
+   "change_at": {
+      "message": "Je kunt deze snelkoppeling wijzigen bij Chrome"
+   },
+   "click_action": {
+      "message": "Klik op het pictogram om de kleur van de webpagina te kiezen"
+   },
+   "color_picker": {
+      "message": "Kleur kiezer"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Activeer kleur kiezen van webpagina"
+   },
+   "crosshair": {
+      "message": "draadkruis"
+   },
+   "disable_right_click": {
+      "message": "Pick uitschakelen met de rechtermuisknop"
+   },
+   "do_not_copy": {
+      "message": "Kopieer # teken niet, alleen RGB-kleur"
+   },
+   "drop_desc": {
+      "message": "beweeg de muis over het pictogram om te zien hoe het eruit ziet"
+   },
+   "dropper_cursor": {
+      "message": "Dropper-cursor"
+   },
+   "empty_history": {
+      "message": "De geschiedenis is leeg, probeer eerst een kleur te kiezen."
+   },
+   "enable_box": {
+      "message": "Schakel vak met kleurinformatie in de rechter benedenhoek in"
+   },
+   "enable_color": {
+      "message": "Schakel knopinfo in naast de muiscursor"
+   },
+   "ext_shortcut": {
+      "message": "Extensies-snelkoppeling"
+   },
+   "extension_description": {
+      "message": "Hiermee kunt u kleuren kiezen van elke webpagina, kleurkiezer om pixelcode, rgb, ... te krijgen"
+   },
+   "extension_name": {
+      "message": "Hex kleurkiezer"
+   },
+   "option_legend1": {
+      "message": "Kiesgedrag webpagina"
+   },
+   "option_legend2": {
+      "message": "Webpagina Pick Look"
+   },
+   "option_legend3": {
+      "message": "Sneltoetsen voor Kleur kiezen van webpagina"
+   },
+   "palette": {
+      "message": "Palet:"
+   },
+   "palette_default": {
+      "message": "standaard"
+   },
+   "pick_color": {
+      "message": "Kies kleur"
+   },
+   "pickup_color": {
+      "message": "Pickup kleur:"
+   },
+   "pointer": {
+      "message": "wijzer"
+   },
+   "save_settings": {
+      "message": "Instellingen opslaan"
+   },
+   "update_color": {
+      "message": "Kleuren bijwerken"
+   },
+   "update_desc": {
+      "message": "Kleurkiezer toont u alleen kleur die aanwezig was op het moment dat kleurkeuze actief was. Als er een JavaScript-gebeurtenis plaatsvindt (zweefeffect, menu verschijnt), kunt u deze vernieuwen met deze sneltoets."
+   }
+}

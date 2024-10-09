@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Kopiera automatiskt vald färg till urklipp"
+   },
+   "cancel_desc": {
+      "message": "Avbryt helt enkelt den aktiva plockfärgen från webbsidan. Ingen färg lagras i historiken."
+   },
+   "cancel_pick": {
+      "message": "Avbryt val:"
+   },
+   "change_at": {
+      "message": "Du kan ändra den här genvägen på Chrome"
+   },
+   "click_action": {
+      "message": "Klicka på ikonen för att välja färg från webbsidan"
+   },
+   "color_picker": {
+      "message": "Färgväljare"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivera plockfärg från webbsidan"
+   },
+   "crosshair": {
+      "message": "hårkors"
+   },
+   "disable_right_click": {
+      "message": "Inaktivera val med höger musklick"
+   },
+   "do_not_copy": {
+      "message": "Kopiera inte # -tecken, bara RGB-färg"
+   },
+   "drop_desc": {
+      "message": "flytta musen över ikonen för att se hur det ser ut"
+   },
+   "dropper_cursor": {
+      "message": "Droppmarkören"
+   },
+   "empty_history": {
+      "message": "Historiken är tom, försök först välja lite färg."
+   },
+   "enable_box": {
+      "message": "Aktivera rutan med färginformation i högra nedre hörnet"
+   },
+   "enable_color": {
+      "message": "Aktivera färgverktygstips bredvid muspekaren"
+   },
+   "ext_shortcut": {
+      "message": "Genväg för tillägg"
+   },
+   "extension_description": {
+      "message": "Gör att du kan välja färger från alla webbsidor, färgväljare för att få pixelkod, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Hex färgväljare"
+   },
+   "option_legend1": {
+      "message": "Webbplats Välj beteende"
+   },
+   "option_legend2": {
+      "message": "Webbsida Välj Look"
+   },
+   "option_legend3": {
+      "message": "Kortkommandon för att välja färg från webbsidan"
+   },
+   "palette": {
+      "message": "Palett:"
+   },
+   "palette_default": {
+      "message": "standard"
+   },
+   "pick_color": {
+      "message": "Välj färg"
+   },
+   "pickup_color": {
+      "message": "Hämtningsfärg:"
+   },
+   "pointer": {
+      "message": "pekare"
+   },
+   "save_settings": {
+      "message": "Spara inställningar"
+   },
+   "update_color": {
+      "message": "Uppdatera färger"
+   },
+   "update_desc": {
+      "message": "Färgväljaren visar endast färg som var närvarande när färgvalet var aktivt. Om någon javascript-händelse inträffar (hovereffekt, menyn visas) kan du uppdatera dess med den här snabbtangenten."
+   }
+}

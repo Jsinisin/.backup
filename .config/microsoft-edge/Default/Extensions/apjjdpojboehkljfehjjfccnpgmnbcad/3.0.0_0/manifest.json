@@ -1,0 +1,41 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "img/icon_19.png",
+         "38": "img/icon_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extension_name__"
+   },
+   "background": {
+      "service_worker": "/js/background.js"
+   },
+   "commands": {
+      "activate": {
+         "description": "__MSG_command_desc__",
+         "suggested_key": {
+            "default": "Alt+P"
+         }
+      }
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "homepage_url": "https://color-picker.dllplayer.com",
+   "icons": {
+      "128": "img/icon_128.png",
+      "48": "img/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0OFeOkM91QqhrSRFjWk1aZn4no2JxFnMINPm7IHVTopZPs87xMUurPchYIrmDA5L6Z+9OAtBMlC8RTXRCvNFWAzrLCmbMdD3JDy6Xt7mCL9oYwyDYPBBbhUX6uA6NAaWZkodM5T16IAw/34PzOvVMKw8H/hERUxLcwZ4Z28cLE6O0QEHKadRRXinuWPp7BQ/7b04dn2wM7503vnFmdbUhwbtuf924LbekjxEGyDGQ8goI978gNC50AQeUliBcr6Mp+LzQIuRlLwGalT/HUR6M1ub9naPZPbizw9VcWLHkl9VSG8f5g/4T3ca0+fQUr1ghiTtTFwWYnqWMVVEa15+UQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "49",
+   "name": "__MSG_extension_name__",
+   "offline_enabled": true,
+   "permissions": [ "activeTab", "storage", "scripting" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.0.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "inc/jquery-2.1.0.min.js", "inc/jquery.scrollstop.js", "js/edropper2.js", "inject/anchor-cursor-default.css", "inject/anchor-cursor-crosshair.css", "inject/edropper2.css" ]
+   } ]
+}

@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automatikusan másolja a színt a vágólapra"
+   },
+   "cancel_desc": {
+      "message": "Egyszerűen törölje az aktív színválasztást a weboldalról. A színek nem kerülnek tárolásra az előzményekben."
+   },
+   "cancel_pick": {
+      "message": "Mégse választás:"
+   },
+   "change_at": {
+      "message": "Ezt a parancsikont a Chrome-on módosíthatja"
+   },
+   "click_action": {
+      "message": "Kattintson az ikonra a weboldal színének kiválasztásához"
+   },
+   "color_picker": {
+      "message": "Színválasztó"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktiválja a színválasztást a weboldalról"
+   },
+   "crosshair": {
+      "message": "célkereszt"
+   },
+   "disable_right_click": {
+      "message": "Tilos letiltani a jobb egérkattintással"
+   },
+   "do_not_copy": {
+      "message": "Ne másolja a # karaktert, csak az RGB színű"
+   },
+   "drop_desc": {
+      "message": "vigye az egeret az ikon fölé, hogy megnézze, hogyan néz ki"
+   },
+   "dropper_cursor": {
+      "message": "Csepegtető kurzor"
+   },
+   "empty_history": {
+      "message": "Az előzmények üres. Próbáljon meg előbb színt választani."
+   },
+   "enable_box": {
+      "message": "Engedélyezze a színes információkkal ellátott mezőt a jobb alsó sarokban"
+   },
+   "enable_color": {
+      "message": "Engedélyezze a színes eszközleírást az egér kurzor mellett"
+   },
+   "ext_shortcut": {
+      "message": "Bővítmények parancsikon"
+   },
+   "extension_description": {
+      "message": "Lehetővé teszi a színek kiválasztását bármilyen weboldalról, színválasztóval, hogy pixelkódot kapjon, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Hex színválasztó"
+   },
+   "option_legend1": {
+      "message": "Weboldal kiválasztási magatartása"
+   },
+   "option_legend2": {
+      "message": "Weboldal kiválasztása"
+   },
+   "option_legend3": {
+      "message": "Billentyűparancsok a színválasztáshoz a weboldalról"
+   },
+   "palette": {
+      "message": "Paletta:"
+   },
+   "palette_default": {
+      "message": "alapértelmezett"
+   },
+   "pick_color": {
+      "message": "Válassza ki a színt"
+   },
+   "pickup_color": {
+      "message": "Pickup Color:"
+   },
+   "pointer": {
+      "message": "mutató"
+   },
+   "save_settings": {
+      "message": "Beállítások mentése"
+   },
+   "update_color": {
+      "message": "Frissítse a színeket"
+   },
+   "update_desc": {
+      "message": "A Színválasztó csak azokat a színeket jeleníti meg, amelyek az aktív színválasztás pillanatában voltak jelen. Ha bármilyen javascript esemény bekövetkezik (lebegési effektus, megjelenik a menü), frissítheti azt ezzel a billentyűparancsmal."
+   }
+}

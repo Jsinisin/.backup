@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png",
+         "64": "data/icons/64.png"
+      },
+      "default_popup": "data/popup/popup.html",
+      "default_title": "Tab Auto Refresh"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "description": "Automatically refresh tabs based on custom time intervals",
+   "homepage_url": "https://mybrowseraddon.com/tab-auto-refresh.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkVcPJ1ztvHHEusxyxhh3gXGYLhCUKM7co+HsNZ7iP7MJ5qKd0/f/Ywoztl8l170yzVQPuaZxIH9DKCdgYtsK1jIRv23EiSqjYKoJHb7GiKWCr6FqxVb5Es1r76gD8v6fyw6OTrD2+8xSGXtwv2VPrtIRjTINV9cMxkRjCbATo0eHHCvLjKQ4yfFQTDkycsXoIj/ijVyfQB8hwBoQNA1MMvAlJig3aJo6r8++U4zA9s7A9TrOwTmf8g55UZPYzvvtA8sa4Rqd6JaVyuDq6HAkkx9VHvpbLR8CldFdsNNFu8RDpb29E349dJsnlPsihGHLlMwXXV7sLZBhbvlZ9KH9vQIDAQAB",
+   "manifest_version": 3,
+   "name": "Tab Auto Refresh",
+   "offline_enabled": true,
+   "permissions": [ "tabs", "alarms", "storage", "notifications" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.2.1"
+}

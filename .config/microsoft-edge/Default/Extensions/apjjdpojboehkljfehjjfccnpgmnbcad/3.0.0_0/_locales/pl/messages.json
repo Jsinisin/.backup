@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automatycznie kopiuj wybrany kolor do schowka"
+   },
+   "cancel_desc": {
+      "message": "Po prostu anuluj aktywne wybieranie koloru ze strony internetowej. Żaden kolor nie zostanie zapisany w historii."
+   },
+   "cancel_pick": {
+      "message": "Anuluj Wybierz:"
+   },
+   "change_at": {
+      "message": "Możesz zmienić ten skrót w Chrome"
+   },
+   "click_action": {
+      "message": "Kliknij ikonę, aby wybrać kolor ze strony internetowej"
+   },
+   "color_picker": {
+      "message": "Narzędzie do wybierania kolorów"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktywuj wybierz kolor ze strony internetowej"
+   },
+   "crosshair": {
+      "message": "celownik"
+   },
+   "disable_right_click": {
+      "message": "Wyłącz odbiór prawym przyciskiem myszy"
+   },
+   "do_not_copy": {
+      "message": "Nie kopiuj # znaku, tylko kolor RGB"
+   },
+   "drop_desc": {
+      "message": "najedź myszką na ikonę, aby zobaczyć, jak to wygląda"
+   },
+   "dropper_cursor": {
+      "message": "Kursor zakraplacza"
+   },
+   "empty_history": {
+      "message": "Historia jest pusta, najpierw spróbuj wybrać jakiś kolor."
+   },
+   "enable_box": {
+      "message": "Włącz pole z informacjami o kolorze w prawym dolnym rogu"
+   },
+   "enable_color": {
+      "message": "Włącz kolorową etykietkę obok kursora myszy"
+   },
+   "ext_shortcut": {
+      "message": "Skrót rozszerzeń"
+   },
+   "extension_description": {
+      "message": "Pozwala wybierać kolory z dowolnych stron internetowych, próbnik kolorów, aby uzyskać kod pikseli, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Szesnastkowy próbnik kolorów"
+   },
+   "option_legend1": {
+      "message": "Zachowanie przy wybieraniu strony internetowej"
+   },
+   "option_legend2": {
+      "message": "Wybierz wygląd strony"
+   },
+   "option_legend3": {
+      "message": "Skróty klawiaturowe do Wybierz kolor ze strony internetowej"
+   },
+   "palette": {
+      "message": "Paleta:"
+   },
+   "palette_default": {
+      "message": "zaniedbanie"
+   },
+   "pick_color": {
+      "message": "Wybierz kolor"
+   },
+   "pickup_color": {
+      "message": "Kolor odbioru:"
+   },
+   "pointer": {
+      "message": "wskaźnik"
+   },
+   "save_settings": {
+      "message": "Zapisz ustawienia"
+   },
+   "update_color": {
+      "message": "Zaktualizuj kolory"
+   },
+   "update_desc": {
+      "message": "Próbnik kolorów pokazuje tylko kolor, który był obecny w momencie wyboru koloru. Jeśli wystąpi jakiekolwiek zdarzenie javascript (efekt najechania kursorem, pojawi się menu), możesz je odświeżyć za pomocą tego skrótu klawiaturowego."
+   }
+}

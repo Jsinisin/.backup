@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Kopierer automatisk valgt farve til udklipsholder"
+   },
+   "cancel_desc": {
+      "message": "Du skal blot annullere den aktive plukfarve fra websiden. Ingen farve gemmes i historikken."
+   },
+   "cancel_pick": {
+      "message": "Annuller valg:"
+   },
+   "change_at": {
+      "message": "Du kan ændre denne genvej ved Chrome"
+   },
+   "click_action": {
+      "message": "Klik på ikonet for at vælge farve fra websiden"
+   },
+   "color_picker": {
+      "message": "Farvevælger"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivér plukfarve fra webside"
+   },
+   "crosshair": {
+      "message": "trådkorset"
+   },
+   "disable_right_click": {
+      "message": "Deaktiver valg med højre museklik"
+   },
+   "do_not_copy": {
+      "message": "Kopier ikke # tegn, kun RGB-farve"
+   },
+   "drop_desc": {
+      "message": "Flyt musen over ikonet for at se, hvordan det ser ud"
+   },
+   "dropper_cursor": {
+      "message": "Dropper markør"
+   },
+   "empty_history": {
+      "message": "Historikken er tom, prøv først at vælge lidt farve."
+   },
+   "enable_box": {
+      "message": "Aktivér boks med farveinformation i højre nederste hjørne"
+   },
+   "enable_color": {
+      "message": "Aktivér farveværktøjstip ved siden af musemarkøren"
+   },
+   "ext_shortcut": {
+      "message": "Genvej til udvidelser"
+   },
+   "extension_description": {
+      "message": "Gør det muligt at vælge farver fra alle websider, farvevælger for at få pixelkode, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Hex farvevælger"
+   },
+   "option_legend1": {
+      "message": "Opførsel af webside-valg"
+   },
+   "option_legend2": {
+      "message": "Vælg webside"
+   },
+   "option_legend3": {
+      "message": "Tastaturgenveje til valg af farve fra webside"
+   },
+   "palette": {
+      "message": "Palette:"
+   },
+   "palette_default": {
+      "message": "Standard"
+   },
+   "pick_color": {
+      "message": "Vælg farve"
+   },
+   "pickup_color": {
+      "message": "Afhentning farve:"
+   },
+   "pointer": {
+      "message": "pointer"
+   },
+   "save_settings": {
+      "message": "Gem indstillinger"
+   },
+   "update_color": {
+      "message": "Opdater farver"
+   },
+   "update_desc": {
+      "message": "Farvevælger viser dig kun farve, der var til stede i øjeblikket, hvor farvevalget er aktiv. Hvis der opstår nogen javascript-begivenhed (hovereffekt, menuen vises), kan du opdatere dens med denne tastaturgenvej."
+   }
+}

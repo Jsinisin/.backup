@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automātiski kopēt izvēlēto krāsu uz starpliktuvi"
+   },
+   "cancel_desc": {
+      "message": "Vienkārši atceliet aktīvo krāsu atlasīšanu no tīmekļa lapas. Neviena krāsa netiks saglabāta vēsturē."
+   },
+   "cancel_pick": {
+      "message": "Atcelt izvēli:"
+   },
+   "change_at": {
+      "message": "Šo saīsni var mainīt pārlūkā Chrome"
+   },
+   "click_action": {
+      "message": "Noklikšķiniet uz ikonas, lai izvēlētos krāsu no tīmekļa lapas"
+   },
+   "color_picker": {
+      "message": "Krāsu atlasītājs"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivizējiet tīmekļa lapas izvēles krāsu"
+   },
+   "crosshair": {
+      "message": "krustu krusts"
+   },
+   "disable_right_click": {
+      "message": "Atspējot izvēli ar peles labo taustiņu"
+   },
+   "do_not_copy": {
+      "message": "Nekopējiet # rakstzīmi, tikai RGB krāsu"
+   },
+   "drop_desc": {
+      "message": "pārvietojiet peli virs ikonas, lai redzētu, kā tā izskatās"
+   },
+   "dropper_cursor": {
+      "message": "Pilinātāja kursors"
+   },
+   "empty_history": {
+      "message": "Vēsture ir tukša. Mēģiniet vispirms izvēlēties kādu krāsu."
+   },
+   "enable_box": {
+      "message": "Iespējot lodziņu ar krāsu informāciju labajā apakšējā stūrī"
+   },
+   "enable_color": {
+      "message": "Iespējot krāsu rīka padomu blakus peles kursoram"
+   },
+   "ext_shortcut": {
+      "message": "Pagarinājumu saīsne"
+   },
+   "extension_description": {
+      "message": "Ļauj izvēlēties krāsas no visām tīmekļa lapām, krāsu atlasītāju, lai iegūtu pikseļu kodu, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Sešstaru krāsu atlasītājs"
+   },
+   "option_legend1": {
+      "message": "Vietnes izvēles uzvedība"
+   },
+   "option_legend2": {
+      "message": "Vietnes izvēle"
+   },
+   "option_legend3": {
+      "message": "Tastatūras saīsnes krāsu izvēlei no Web lapas"
+   },
+   "palette": {
+      "message": "Palete:"
+   },
+   "palette_default": {
+      "message": "noklusējuma"
+   },
+   "pick_color": {
+      "message": "Izvēlieties krāsu"
+   },
+   "pickup_color": {
+      "message": "Pikapa krāsa:"
+   },
+   "pointer": {
+      "message": "rādītājs"
+   },
+   "save_settings": {
+      "message": "Saglabāt iestatījumus"
+   },
+   "update_color": {
+      "message": "Atjaunināt krāsas"
+   },
+   "update_desc": {
+      "message": "Krāsu atlasītājs parāda jums tikai to krāsu, kas bija aktīva krāsu izvēles brīdī. Ja rodas kāds javascript notikums (tiek parādīts kursorsviru efekts, parādās izvēlne), varat to atsvaidzināt, izmantojot šo īsinājumtaustiņu."
+   }
+}

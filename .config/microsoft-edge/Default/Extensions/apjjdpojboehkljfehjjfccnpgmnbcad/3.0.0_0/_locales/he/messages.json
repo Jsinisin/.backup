@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "העתקה אוטומטית בחרה צבע ללוח"
+   },
+   "cancel_desc": {
+      "message": "פשוט בטל בחירת צבע פעילה מדף האינטרנט. שום צבע לא יאוחסן בהיסטוריה."
+   },
+   "cancel_pick": {
+      "message": "ביטול בחירה:"
+   },
+   "change_at": {
+      "message": "אתה יכול לשנות קיצור דרך זה אצל Chrome"
+   },
+   "click_action": {
+      "message": "לחץ על סמל כדי לבחור צבע מדף האינטרנט"
+   },
+   "color_picker": {
+      "message": "בוחר הצבעים"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "הפעל צבע בחירה מדף האינטרנט"
+   },
+   "crosshair": {
+      "message": "צומת"
+   },
+   "disable_right_click": {
+      "message": "השבת את הבחירה בלחיצת העכבר הימנית"
+   },
+   "do_not_copy": {
+      "message": "אל תעתיק תו #, רק צבע RGB"
+   },
+   "drop_desc": {
+      "message": "העבר את העכבר מעל הסמל כדי לראות איך הוא נראה"
+   },
+   "dropper_cursor": {
+      "message": "סמן טפטפת"
+   },
+   "empty_history": {
+      "message": "ההיסטוריה ריקה, נסה קודם לבחור קצת צבע."
+   },
+   "enable_box": {
+      "message": "הפעל תיבה עם מידע צבע בפינה השמאלית התחתונה"
+   },
+   "enable_color": {
+      "message": "אפשר הסבר על כלים צבעוניים ליד סמן העכבר"
+   },
+   "ext_shortcut": {
+      "message": "קיצור דרך תוספים"
+   },
+   "extension_description": {
+      "message": "מאפשר לך לבחור צבעים מכל דפי אינטרנט, בוחר צבע כדי לקבל קוד פיקסל, rgb, ..."
+   },
+   "extension_name": {
+      "message": "בורר צבע Hex"
+   },
+   "option_legend1": {
+      "message": "התנהגות בחירת דף אינטרנט"
+   },
+   "option_legend2": {
+      "message": "תראה דף אינטרנט"
+   },
+   "option_legend3": {
+      "message": "קיצורי מקשים לבחירת צבע מדף אינטרנט"
+   },
+   "palette": {
+      "message": "לוּחַ הַצְבָעִים:"
+   },
+   "palette_default": {
+      "message": "בְּרִירַת מֶחדָל"
+   },
+   "pick_color": {
+      "message": "בחר צבע"
+   },
+   "pickup_color": {
+      "message": "צבע איסוף:"
+   },
+   "pointer": {
+      "message": "מצביע"
+   },
+   "save_settings": {
+      "message": "שמור הגדרות"
+   },
+   "update_color": {
+      "message": "עדכן צבעים"
+   },
+   "update_desc": {
+      "message": "בורר הצבעים מראה לך רק צבע שהיה נוכח ברגע בו בחר צבע פעיל. אם אירוע ג&#39;אווה סקריפט כלשהו מתרחש (אפקט רחף, מופיע התפריט) אתה יכול לרענן את זה באמצעות קיצור מקשים זה."
+   }
+}

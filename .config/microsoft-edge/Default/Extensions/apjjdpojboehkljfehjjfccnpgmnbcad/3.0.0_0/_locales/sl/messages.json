@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Samodejno kopiraj izbrano barvo v odložišče"
+   },
+   "cancel_desc": {
+      "message": "Preprosto prekličite aktivno izbiranje barve s spletne strani. V zgodovini ne bo shranjena nobena barva."
+   },
+   "cancel_pick": {
+      "message": "Prekliči izbiro:"
+   },
+   "change_at": {
+      "message": "To bližnjico lahko spremenite v Chromovih"
+   },
+   "click_action": {
+      "message": "Kliknite ikono, da izberete barvo s spletne strani"
+   },
+   "color_picker": {
+      "message": "Izbiralec barv"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivirajte barvo izbiranja s spletne strani"
+   },
+   "crosshair": {
+      "message": "križanec"
+   },
+   "disable_right_click": {
+      "message": "Onemogoči izbiro z desnim klikom miške"
+   },
+   "do_not_copy": {
+      "message": "Ne kopirajte # znaka, samo RGB barvo"
+   },
+   "drop_desc": {
+      "message": "premaknite miško preko ikone, da vidite, kako izgleda"
+   },
+   "dropper_cursor": {
+      "message": "Kazalec s kapalko"
+   },
+   "empty_history": {
+      "message": "Zgodovina je prazna, poskusite najprej izbrati nekaj barve."
+   },
+   "enable_box": {
+      "message": "Omogoči polje z barvnimi informacijami v desnem spodnjem kotu"
+   },
+   "enable_color": {
+      "message": "Omogočite barvni namig poleg kazalca miške"
+   },
+   "ext_shortcut": {
+      "message": "Bližnjica za razširitve"
+   },
+   "extension_description": {
+      "message": "Omogoča izbiro barv na kateri koli spletni strani, izbira barv, da dobite kodo pikslov, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Šestnajsti barvni nabiralnik"
+   },
+   "option_legend1": {
+      "message": "Izberite vedenje spletne strani"
+   },
+   "option_legend2": {
+      "message": "Izbira spletnega mesta"
+   },
+   "option_legend3": {
+      "message": "Bližnjice na tipkovnici za izbiro barve s spletne strani"
+   },
+   "palette": {
+      "message": "Paleta:"
+   },
+   "palette_default": {
+      "message": "privzeto"
+   },
+   "pick_color": {
+      "message": "Izberite barvo"
+   },
+   "pickup_color": {
+      "message": "Barva prevzema:"
+   },
+   "pointer": {
+      "message": "kazalec"
+   },
+   "save_settings": {
+      "message": "Shrani nastavitve"
+   },
+   "update_color": {
+      "message": "Posodobi barve"
+   },
+   "update_desc": {
+      "message": "Izbira barv prikazuje samo barvo, ki je bila prisotna v trenutku izbire barve. Če se zgodi kateri koli dogodek javascripta (pojavlja se učinek, se prikaže meni), ga lahko osvežite s to bližnjico na tipkovnici."
+   }
+}

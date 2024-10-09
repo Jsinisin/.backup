@@ -1,0 +1,53 @@
+{
+   "action": {
+      "default_area": "navbar",
+      "default_icon": {
+         "128": "icons/sp_icon_128.png",
+         "16": "icons/sp_icon_16.png",
+         "48": "icons/sp_icon_48.png"
+      },
+      "default_title": "__MSG_extensionName__"
+   },
+   "background": {
+      "service_worker": "service-worker.js"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://www.startpage.com/favicon.ico",
+         "is_default": true,
+         "keyword": "@startpage",
+         "name": "__MSG_searchEngineName__",
+         "search_url": "https://www.startpage.com/do/dsearch?q={searchTerms}&cat=web&language=__MSG_extensionUrlLanguage__",
+         "suggest_url": "https://www.startpage.com/suggestions?q={searchTerms}&format=opensearch&segment=startpage.defaultedx&lui=__MSG_extensionUrlLanguage__"
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "css/content.css" ],
+      "js": [ "js/content.js" ],
+      "matches": [ "https://*.startpage.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_1",
+         "path": "rules_1.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "host_permissions": [ "https://*.startpage.com/*" ],
+   "icons": {
+      "128": "icons/sp_icon_128.png",
+      "16": "icons/sp_icon_16.png",
+      "48": "icons/sp_icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyTyg6SZbE9li73dmBEYHFoB2MvDoDyVz8wtq8v5OV8DvAmyyaPpVwyzvG6OYeDeOqimSOCze9Q5CS41jf9CoXKcCi9qRQ3gQ27qia5/gRJQ06bKIkNDbwERVnnG0Xr2SSmIQ58bRuDM+HYFDatUm/HMJ8Y6C1yig6fsAjXi/SvKzBKH8TXjzBxun317ihLfPcF23kpLOjjqwCPtPpjHM4YDsU0sfT/7AXGojUfV45uqhqAHAetSEIV4qV9o16Fs7anEaE3aHT687JFrMCN2xsUqKn3KXy1DcAbntTB4h97vp7sHAtPJF3YWv27TYo5b3gE9a0bfgPORAhhg99WsG9QIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "90",
+   "name": "__MSG_extensionName__",
+   "permissions": [ "storage", "declarativeNetRequestWithHostAccess" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.0.2"
+}

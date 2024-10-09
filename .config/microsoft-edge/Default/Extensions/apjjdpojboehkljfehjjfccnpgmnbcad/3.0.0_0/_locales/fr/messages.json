@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Copier automatiquement la couleur sélectionnée dans le presse-papiers"
+   },
+   "cancel_desc": {
+      "message": "Annulez simplement la couleur de prélèvement active de la page Web. Aucune couleur ne sera stockée dans l&#39;historique."
+   },
+   "cancel_pick": {
+      "message": "Annuler le choix:"
+   },
+   "change_at": {
+      "message": "Vous pouvez modifier ce raccourci sur Chrome"
+   },
+   "click_action": {
+      "message": "Cliquez sur l&#39;icône pour choisir la couleur de la page Web"
+   },
+   "color_picker": {
+      "message": "Pipette à couleurs"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Activer le choix de la couleur depuis la page Web"
+   },
+   "crosshair": {
+      "message": "réticule"
+   },
+   "disable_right_click": {
+      "message": "Désactiver la sélection avec un clic droit de la souris"
+   },
+   "do_not_copy": {
+      "message": "Ne copiez pas le caractère #, seulement la couleur RVB"
+   },
+   "drop_desc": {
+      "message": "déplacez la souris sur l&#39;icône pour voir à quoi elle ressemble"
+   },
+   "dropper_cursor": {
+      "message": "Curseur compte-gouttes"
+   },
+   "empty_history": {
+      "message": "L&#39;histoire est vide, essayez d&#39;abord de choisir une couleur."
+   },
+   "enable_box": {
+      "message": "Activer la case avec les informations de couleur dans le coin inférieur droit"
+   },
+   "enable_color": {
+      "message": "Activer l&#39;info-bulle de couleur à côté du curseur de la souris"
+   },
+   "ext_shortcut": {
+      "message": "Raccourci des extensions"
+   },
+   "extension_description": {
+      "message": "Vous permet de choisir les couleurs de toutes les pages Web, sélecteur de couleurs pour obtenir le code pixel, RVB, ..."
+   },
+   "extension_name": {
+      "message": "Sélecteur de couleur hexagonale"
+   },
+   "option_legend1": {
+      "message": "Comportement de sélection de page Web"
+   },
+   "option_legend2": {
+      "message": "Sélection de page Web"
+   },
+   "option_legend3": {
+      "message": "Raccourcis clavier pour choisir la couleur de la page Web"
+   },
+   "palette": {
+      "message": "Palette:"
+   },
+   "palette_default": {
+      "message": "défaut"
+   },
+   "pick_color": {
+      "message": "Choisissez la couleur"
+   },
+   "pickup_color": {
+      "message": "Couleur de ramassage:"
+   },
+   "pointer": {
+      "message": "aiguille"
+   },
+   "save_settings": {
+      "message": "Enregistrer les paramètres"
+   },
+   "update_color": {
+      "message": "Mettre à jour les couleurs"
+   },
+   "update_desc": {
+      "message": "Le sélecteur de couleurs ne vous montre que la couleur qui était présente au moment de la sélection de couleur active. Si un événement javascript se produit (effet de survol, le menu apparaît), vous pouvez le rafraîchir avec ce raccourci clavier."
+   }
+}

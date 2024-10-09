@@ -1,0 +1,92 @@
+{
+   "auto_copy": {
+      "message": "Automatski kopira odabranu boju u međuspremnik"
+   },
+   "cancel_desc": {
+      "message": "Jednostavno otkažite aktivno branje boja s web stranice. Nijedna boja neće biti pohranjena u povijesti."
+   },
+   "cancel_pick": {
+      "message": "Otkaži odabir:"
+   },
+   "change_at": {
+      "message": "Možete promijeniti ovu prečac na Chromeu"
+   },
+   "click_action": {
+      "message": "Kliknite ikonu za odabir boje s web stranice"
+   },
+   "color_picker": {
+      "message": "Birač boja"
+   },
+   "command": {
+      "message": "Alt + P"
+   },
+   "command_desc": {
+      "message": "Aktivirajte odabir boje s web stranice"
+   },
+   "crosshair": {
+      "message": "nišan"
+   },
+   "disable_right_click": {
+      "message": "Onemogućite odabir desnim klikom miša"
+   },
+   "do_not_copy": {
+      "message": "Ne kopirajte # znak, samo RGB boju"
+   },
+   "drop_desc": {
+      "message": "pomičite mišem preko ikone da biste vidjeli kako to izgleda"
+   },
+   "dropper_cursor": {
+      "message": "Kursor kapaljke"
+   },
+   "empty_history": {
+      "message": "Povijest je prazna, pokušajte prvo odabrati boju."
+   },
+   "enable_box": {
+      "message": "Omogućite okvir s podacima o boji u desnom donjem kutu"
+   },
+   "enable_color": {
+      "message": "Omogući upozorenje u boji uz pokazivač miša"
+   },
+   "ext_shortcut": {
+      "message": "Prečac za proširenja"
+   },
+   "extension_description": {
+      "message": "Omogućuje vam odabir boja s bilo koje web stranice, alat za odabir boja za dobivanje piksela, rgb, ..."
+   },
+   "extension_name": {
+      "message": "Šesterokutni odabir boja"
+   },
+   "option_legend1": {
+      "message": "Izaberite ponašanje web stranice"
+   },
+   "option_legend2": {
+      "message": "Odaberite stranicu web stranice"
+   },
+   "option_legend3": {
+      "message": "Prečice na tipkovnici za odabir boje s web stranice"
+   },
+   "palette": {
+      "message": "Paleta:"
+   },
+   "palette_default": {
+      "message": "zadano"
+   },
+   "pick_color": {
+      "message": "Odaberite boju"
+   },
+   "pickup_color": {
+      "message": "Boja preuzimanja:"
+   },
+   "pointer": {
+      "message": "pokazivač"
+   },
+   "save_settings": {
+      "message": "Spremi postavke"
+   },
+   "update_color": {
+      "message": "Ažurirajte boje"
+   },
+   "update_desc": {
+      "message": "Birač boja prikazuje vam samo boju koja je bila prisutna u trenutku odabira boje. Ako se dogodi bilo koji JavaScript događaj (pojavi se pokazivač miša, pojavi se izbornik), možete ga osvježiti ovom prečicom na tipkovnici."
+   }
+}
