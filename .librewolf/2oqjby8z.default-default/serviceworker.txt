@@ -1,13 +1,1 @@
 9
-
-https://sports.sportsinteraction.com/ClientDist/~partytown/
-https://sports.sportsinteraction.com/ClientDist/~partytown/partytown-sw.js?1
-true
-{acf46cae-a67d-42df-9aa9-a3e59d224289}
-0
-1728514292640559
-1728514292641108
-1728514292616748
-0
-true
-#
